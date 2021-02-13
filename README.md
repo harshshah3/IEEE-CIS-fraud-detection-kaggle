@@ -51,4 +51,4 @@ In this competition, you’ll benchmark machine learning models on a challenging
 
 ROC_AUC_SCORE: 84%
 
-#### **[Report]() for more detais.**
+#### **[Report](CP610_Project_Report_shah5610.pdf) for more detais.**
